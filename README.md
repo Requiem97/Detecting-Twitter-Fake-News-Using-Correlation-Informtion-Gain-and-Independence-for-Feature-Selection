@@ -4,4 +4,4 @@ Source Code of a Bachelor's Thesis Presented to the Department of Computer Scien
 * **Jerome Cases**
 * **Philip Ebuenga**
 * **Marius Reyes** - [Requiem97](https://github.com/Requiem97)
-* **Geoffrie Yu**
+* **Geoffrie Yu** - [geoffrieyu](https://github.com/geoffrieyu)
